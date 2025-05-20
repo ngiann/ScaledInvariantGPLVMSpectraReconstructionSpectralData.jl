@@ -1,3 +1,4 @@
 # ScaledInvariantGPLVMSpectraReconstructionSpectralData
 
-[![Build Status](https://github.com/ngiann/ScaledInvariantGPLVMSpectraReconstructionSpectralData.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/ngiann/ScaledInvariantGPLVMSpectraReconstructionSpectralData.jl/actions/workflows/CI.yml?query=branch%3Amain)
+
+This dataset has been compiled by Iliana Isabel Cortés Pérez.

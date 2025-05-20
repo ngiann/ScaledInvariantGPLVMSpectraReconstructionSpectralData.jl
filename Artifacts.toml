@@ -1,0 +1,7 @@
+[sdssrm_spectra_data]
+git-tree-sha1 = "45a51c46cb8cbd2aa3961b80cdc977b21d92a2ec"
+lazy = true
+
+    [[sdssrm_spectra_data.download]]
+    sha256 = "ff2f2443c000326d2f9748fa2ba0f86610a704b296856baa13ab4b2a5c84ea69"
+    url = "https://www.dropbox.com/scl/fi/vfh3k02rd2z4lnakywluq/spectra.tar.xz?rlkey=60pgcpkq6mnkk6qnerhm4wh7j"
