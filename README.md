@@ -14,3 +14,5 @@ using ScaledInvariantGPLVMSpectraReconstructionSpectralData
 
 λ, f, σ = loadspectra();
 ```
+
+The data are also available as csv files the CSV folder.
