@@ -1,3 +1,11 @@
+[photometry]
+git-tree-sha1 = "1ca43428c66158570bd0e455791c854526b86657"
+lazy = true
+
+    [[photometry.download]]
+    sha256 = "8ac3d877477c6ce22b9aa96d2cff4365cb44367010b032305c64039b9bb2534b"
+    url = "https://www.dropbox.com/scl/fi/8eg64pum6p871knsm3n79/photometry.tar.xz?rlkey=2sjawcptru9fgy1cidpv7vv09&dl=0"
+
 [sdssrm_spectra_data]
 git-tree-sha1 = "7bb0eb241011992e91fc4ca140e7f03d9fd9049a"
 lazy = true
