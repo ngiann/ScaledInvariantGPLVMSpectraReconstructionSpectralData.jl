@@ -3,6 +3,8 @@
 
 This dataset has been compiled by Iliana Isabel Cortés Pérez.
 
+Registerer with [MyRegistry](https://github.com/ngiann/MyRegistry).
+
 To install, simply execute in package mode:
 ```
 add ScaledInvariantGPLVMSpectraReconstructionSpectralData
